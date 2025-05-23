@@ -29,6 +29,17 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 
 ---
 
+## 📷 Dashboard Preview
+
+
+![Dashboard Preview](./Dashboard/Page1.png)
+
+
+![Dashboard Preview](./Dashboard/Page2.png)
+
+
+![Dashboard Preview](./Dashboard/Page3.png)
+
 ## 🧩 Project Steps
 
 1. **Data Understanding**  
@@ -81,19 +92,6 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
      - Time-based Sales Analysis (Line Charts)
      - Quarter-over-quarter and YoY Comparison Charts
 
----
-
-## 📷 Dashboard Preview
-
-> *(Include a screenshot image here — `./Screenshots/dashboard.png`)*
-
-![Dashboard Preview](./Screenshots/dashboard.png)
-
-
-![Dashboard Preview](./Screenshots/dashboard.png)
-
-
-![Dashboard Preview](./Screenshots/dashboard.png)
 
 ---
 
