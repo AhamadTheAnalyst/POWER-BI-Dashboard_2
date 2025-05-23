@@ -33,9 +33,10 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 
 ![Dashboard Page1](Dashboard%20Page1.png)
 
-![Dashboard Preview](./Screenshots/Dashboard Page2.png)
+![Dashboard Page2](Dashboard%20Page2.png)
 
-![Dashboard Preview](./Screenshots/Dashboard Page3.png)
+![Dashboard Page3](Dashboard%20Page3.png)
+
 
 
 ## 🧩 Project Steps
