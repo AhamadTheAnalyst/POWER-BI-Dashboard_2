@@ -31,7 +31,7 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](./Screenshots/Dashboard Page1.png)
+![Dashboard Page1](Dashboard%20Page1.png)
 
 ![Dashboard Preview](./Screenshots/Dashboard Page2.png)
 
